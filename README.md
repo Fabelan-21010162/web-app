@@ -1,11 +1,16 @@
 
 # Simple Notes App
+  ◉ Simple Notes App adalah aplikasi web sederhana berbasis HTML dan JavaScript yang memungkinkan pengguna:
 
-Aplikasi web sederhana berbasis HTML dan JavaScript, siap diupload ke GitHub dan dideploy ke Vercel.
+- Menulis catatan dalam textarea (kotak teks besar)
+- Menyimpan catatan tersebut (simulasi penyimpanan)
+- Bisa dijalankan langsung dari browser
 
-## 🚀 Cara Upload dan Deploy
-1. Buat repository baru di GitHub
-2. Upload semua file dari folder ini ke repository GitHub
-3. Buka [Vercel](https://vercel.com), pilih **New Project**, import repository GitHub
-4. Deploy, selesai!
+
+
+# Aplikasi web sederhana berbasis HTML dan JavaScript
+
+●  Tampilan sederhana: hanya ada judul, textarea, dan tombol "Simpan Catatan"
+●  Interaktif: ketika tombol ditekan, muncul notifikasi bahwa catatan telah disimpan (simulasi)
+●  Bebas backend: aplikasi ini hanya HTML dan JS, tidak memerlukan server atau database
 

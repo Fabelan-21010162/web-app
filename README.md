@@ -1,5 +1,5 @@
 
-# Simple Notes App
+# CATATAN APLIKASI SIMPEL
   ◉ Simple Notes App adalah aplikasi web sederhana berbasis HTML dan JavaScript yang memungkinkan pengguna:
 
 - Menulis catatan dalam text area (kotak teks besar)
